@@ -1,4 +1,4 @@
-package overloadingPractice;
+package overloadingPractice.over;
 
 public class Overloading {
     public static void main(String[] args) {
