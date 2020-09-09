@@ -1,4 +1,4 @@
-package InterfacePractice;
+package Interface.Practice1;
 
 public class PrintableInterface {
     public static void main(String[] args) {
