@@ -1,4 +1,4 @@
-package interfacePractie3;
+package Interface.Practice3;
 
 public class PrinterDriver3 {
     public static void main(String[] args) {

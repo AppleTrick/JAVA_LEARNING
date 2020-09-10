@@ -1,4 +1,4 @@
-package InterfacePractice6;
+package Interface.Practice6;
 
 public class MarkerInterface {
     public static void main(String[] args) {

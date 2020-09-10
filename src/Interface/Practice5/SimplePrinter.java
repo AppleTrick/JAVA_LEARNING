@@ -1,4 +1,4 @@
-package InterfacePractice5;
+package Interface.Practice5;
 
 public class SimplePrinter {
     public static void main(String[] args) {
